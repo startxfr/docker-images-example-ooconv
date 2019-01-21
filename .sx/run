@@ -12,5 +12,4 @@ echoVerbose ""
 echoVerbose "+====================================================="
 echoVerbose "Sample ooconv application runtime"
 echoVerbose "+====================================================="
-
-exec /bin/sx-ooconv run
+startOoconvService
